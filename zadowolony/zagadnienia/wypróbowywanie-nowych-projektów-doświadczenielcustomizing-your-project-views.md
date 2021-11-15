@@ -1,4 +1,5 @@
----
+Nev
+k---
 title: Customizing your project (beta) views
 intro: 'Display the information you need by changing the layout, grouping, sorting, and filters in your project.'
 allowTitleToDifferFromFilename: true
@@ -155,6 +156,7 @@ To delete a view:
 4. Alternatively, select the drop-down menu next to a view name and click **Delete view**.
 
 ## Further reading
+k
 
 - "[About projects (beta)](/issues/trying-out-the-new-projects-experience/about-projects)"
 - "[Creating a project (beta)](/issues/trying-out-the-new-projects-experience/creating-a-project)"
